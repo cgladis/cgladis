@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋 I'm Alexander
+
+- 👨‍🎓 I’m currently learning at 21 School
 
 <!--
 **cgladis/cgladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
