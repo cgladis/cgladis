@@ -4,6 +4,7 @@
 
 Skills:
 - Python
+- SQL
 - С / С++
 - SWIFT
 
