@@ -3,10 +3,9 @@
 - 👨‍🎓 I’m currently learning at 21 School
 
 Skills:
-- Python
-- SQL
+- Python (Flask, Django, Kivy)
+- SQL (Oracle, PostgreSQL)
 - С / С++
-- SWIFT
 
 <!--
 **cgladis/cgladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
