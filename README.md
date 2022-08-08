@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Alexander
 
-- 👨‍🎓 I’m currently learning at 21 School
+- 👨‍🎓 I’m currently learning at École 42
 
 Skills:
 - Python (Flask, Django, Kivy)
