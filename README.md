@@ -6,6 +6,11 @@ Skills:
 - Python (Flask, Django, Kivy)
 - SQL (Oracle, PostgreSQL)
 - С / С++
+- Java
+
+📫 How to reach me:
+  - e-mail: ashorshin@gmail.com
+  - telegram: @ashorshin
 
 <!--
 **cgladis/cgladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
