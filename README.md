@@ -3,14 +3,14 @@
 - 👨‍🎓 I’m currently learning at École 42
 
 Skills:
-- Python (Flask, Django, Kivy)
-- SQL (Oracle, PostgreSQL)
+- Python (FastAPI, Flask)
+- SQL (PostgreSQL, Oracle)
 - С / С++
 - Java
 
 📫 How to reach me:
   - e-mail: ashorshin@gmail.com
-  - telegram: @ashorshin
+  - telegram: @cgladis
 
 <!--
 **cgladis/cgladis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
